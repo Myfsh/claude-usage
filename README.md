@@ -89,6 +89,9 @@ Claude Code writes one JSONL file per session to `~/.claude/projects/`. Each lin
 
 `dashboard.py` serves a single-page dashboard on `localhost:8080` with Chart.js charts (loaded from CDN). It auto-refreshes every 30 seconds and supports model filtering with bookmarkable URLs.
 
+Growing files are:
+~/.claude/projects/ = ~/UvS/Downloads/claude-usage/.claude/projects/
+~/.claude/usage.db = ~/UvS/.claude/usage.db
 ---
 
 ## Cost estimates
